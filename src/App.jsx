@@ -153,6 +153,7 @@ const App = () => {
               />
               {/* texts */}
               <div className="text absolute top-20 left-1/2 -translate-x-1/2 flex flex-col gap-4">
+              
                 <h1 className="text-9xl text-white -ml-30 drop-shadow-[0_0_10px_black]">
                   grand
                 </h1>
